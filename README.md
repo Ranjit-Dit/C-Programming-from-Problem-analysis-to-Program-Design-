@@ -1,1 +1,12 @@
-# C-Programming-from-Problem-analysis-to-Program-Design-
+#Programmoing with the problem analysis-Coding-Execution Cycle
+
+* Problem
+* Analysis
+* Algorithm Design
+* Coding
+* Preprocessor
+* Compiler
+* linker
+* Loader
+* Execution
+* Result
