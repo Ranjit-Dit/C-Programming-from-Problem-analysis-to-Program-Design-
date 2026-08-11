@@ -1,0 +1,14 @@
+Desgin an algorithm to find the weighted average of four test score. The four test scores and their respective weights are given in the following format:
+
+START
+DECLARE VARIABLE testscore1, weight1
+READ INPUT VARIABLE testscore1, weight1
+DISPLAY "testscore1 weight1\n"
+END
+
+
+OUTPUT
+75 0.20
+95 0.35
+85 0.15
+65 0.30
