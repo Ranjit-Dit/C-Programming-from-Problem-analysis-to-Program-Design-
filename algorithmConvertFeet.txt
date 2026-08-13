@@ -1,0 +1,6 @@
+STEP 1 : START the program
+STEP 2 : Read the input and store in feet and inches 
+STEP 3 : Convert total length into total inches.
+STEP 4 : Convert total inches into centimeters.
+STEP 5 : Output centimeters
+STEP 6 : STOP 
